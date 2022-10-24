@@ -13,16 +13,16 @@ Shuningdek, siz ma'lumotlar fanining muhim mahorati - ma'lumotlarni tahlil qilis
 
 <h3>Loyiha vazifalari:</h3>
 
-1.Ma'lumotlarini lug'atga yuklash
-2.Lug'atdan DataFrame yaratish
-3.Ma'lumotlarimizni vizual tekshirish
-4.Qolgan maʼlumotlar CSV dan yuklash
-5.Filmlar uchun filtrlash!
-6.Skatter grafigini yaratish
-7.Chuqurroq ma’lumotlarni o‘rganish 
-8.Badiiy bo'lmagan filmlarni belgilash
-9.Graflarni ranglar bilan to‘ldirish!
-10.Va Boshqalar…?
+1. Ma'lumotlarini lug'atga yuklash
+2. Lug'atdan DataFrame yaratish
+3. Ma'lumotlarimizni vizual tekshirish
+4. Qolgan maʼlumotlar CSV dan yuklash
+5. Filmlar uchun filtrlash!
+6. Skatter grafigini yaratish
+7. Chuqurroq ma’lumotlarni o‘rganish 
+8. Badiiy bo'lmagan filmlarni belgilash
+9. Graflarni ranglar bilan to‘ldirish!
+10. Va Boshqalar…?
 
 
 Python project on DataCamp
